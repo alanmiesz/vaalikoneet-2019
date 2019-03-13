@@ -29,36 +29,36 @@ Eksploratiivisessa faktorianalyysissä faktoreilla ei ole periaatteessa ennakkoo
 
 Lataukset                 | Kysymys                               | 
 ------------------------- | ------------------------------------- | 
-<img src="/assets/img/1.png" width="500" /> | 1. Terveyskeskuksen lääkäri- ja hoitajakäyntien tulisi olla asiakkaalle maksuttomia.           | 
-<img src="/assets/img/2.png" width="500" />  | 2. Nykyään vanhuksen tulot vaikuttavat laitoshoidon hoitomaksuihin. Jatkossa myös vanhuksen omaisuutta tulisi käyttää hoivamaksujen kattamiseen.   | 
-<img src="/assets/img/3.png" width="500" />  | 3. Suomen sosiaaliturvassa olisi syytä siirtyä kansalaispalkan eli vastikkeettoman sosiaaliturvan suuntaan.      | 
-<img src="/assets/img/4.png" width="500" />  | 4. Sosiaaliturvaa tulisi uudistaa siten, että vastikkeeksi tuesta täytyy tehdä nykyistä enemmän jotakin yhteiskunnallisesti hyödyllistä, kuten opintoja tai vapaaehtoistöitä.  | 
-<img src="/assets/img/5.png" width="500" />  | 5. Korkeakoulutusta on oltava tarjolla joka puolella Suomea.      | 
-<img src="/assets/img/6.png" width="500" />  | 6. Päiväkotien varhaiskasvatuksen tavoite on ensisijaisesti mahdollistaa vanhempien työssäkäynti.       | 
-<img src="/assets/img/7.png" width="500" />  | 7. Kun perhevapaita uudistetaan, tärkeä tavoite on kasvattaa vain isälle suunnattua kiintiötä.      | 
-<img src="/assets/img/8.png" width="500" />  | 8. Kotihoidon tukea ei saa lyhentää nykyisestä lapsen kolmesta ikävuodesta.      | 
-<img src="/assets/img/9.png" width="500" />  | 9. Suomessa tulee asettaa kansalaisille henkilökohtainen hiilibudjetti, jossa määritellään hiilijalanjäljelle enimmäisraja.      | 
-<img src="/assets/img/10.png" width="500" />  | 10. Eduskunnan pitäisi antaa lupia uusille ydinvoimaloille.     |
-<img src="/assets/img/11.png" width="500" />  | 11. Suomen pitää vähentää hakkuita ilmastonmuutoksen hillitsemiseksi.      | 
-<img src="/assets/img/12.png" width="500" />  | 12. Suomalaisia pitäisi ohjata vähäisempään lihansyöntiin, esimerkiksi verotuksen keinoin.       | 
-<img src="/assets/img/13.png" width="500" />  | 13. EU:sta on Suomelle enemmän hyötyä kuin haittaa.      | 
-<img src="/assets/img/14.png" width="500" />  | 14. Suomen muuttuminen aiempaa monikulttuurisemmaksi ja monimuotoisemmaksi on hyvä asia.      | 
-<img src="/assets/img/15.png" width="500" />  | 15. Ulkomailta tuleville opiskelijoille pitäisi myöntää oleskelulupa koko tutkinnon suorittamisen ajaksi.      | 
-<img src="/assets/img/16.png" width="500" />  | 16. Suomen tulisi tällä vaalikaudella ryhtyä valmistelemaan hakemista Natoon.      | 
-<img src="/assets/img/17.png" width="500" />  | 17. Eduskunnan pitäisi päättää työmarkkinoita koskevista uudistuksista myös vastoin työmarkkinajärjestöjen eli ammattiliittojen ja työnantajajärjestöjen tahtoa.      | 
-<img src="/assets/img/18.png" width="500" />  | 18. Autoilu on Suomessa jo liian kallista.      | 
-<img src="/assets/img/19.png" width="500" />  | 19. On oikein rajoittaa ihmisten autoilua, jos robottiautot ovat liikenteessä turvallisempia.      | 
-<img src="/assets/img/20.png" width="500" />  | 20. Päänsärkylääkkeitä ja vastaavia reseptittömiä itsehoitolääkkeitä pitäisi voida ostaa ruokakaupasta.      | 
-<img src="/assets/img/21.png" width="500" />  | 21. Homo- ja lesbopareilla pitää olla samat avioliitto- ja adoptio-oikeudet kuin heteropareilla.     | 
-<img src="/assets/img/22.png" width="500" />  | 22. Jos valtio tarjoaa turvapaikanhakijoiden vastaanottokeskuksen perustamista kotikuntaani, tarjous pitää hyväksyä.     | 
-<img src="/assets/img/23.png" width="500" />  | 23. Kouluissa kohdellaan koululaisia liian lepsusti. Tiukempi kuri tekisi kouluista parempia.      | 
-<img src="/assets/img/24.png" width="500" />  | 24. Perinteiset arvot — kuten koti, uskonto ja isänmaa — muodostavat hyvän arvopohjan politiikalle.      | 
-<img src="/assets/img/25.png" width="500" />  | 25. Julkisia palveluita tulisi ulkoistaa entistä enemmän yksityisten yritysten tuotettavaksi.      | 
-<img src="/assets/img/26.png" width="500" />  | 26. Jos tulee eteen tilanne, jossa on välttämätöntä joko leikata julkisia palveluita ja sosiaalietuuksia tai korottaa veroja, veronkorotukset ovat parempi vaihtoehto.      | 
-<img src="/assets/img/27.png" width="500" />  | 27. Suuret tuloerot ovat hyväksyttäviä, jotta erot ihmisten lahjakkuudessa ja ahkeruudessa voidaan palkita.    | 
-<img src="/assets/img/28.png" width="500" />  | 28. Nykyisen kaltaiset palvelut ja sosiaalietuudet ovat pitkällä aikavälillä liian raskaita julkiselle taloudelle.      | 
-<img src="/assets/img/29.png" width="500" />  | 29. Talouskasvu ja työpaikkojen luominen tulisi asettaa ympäristöasioiden edelle silloin, kun nämä kaksi ovat keskenään ristiriidassa.     | 
-<img src="/assets/img/30.png" width="500" />  | 30. Kaikessa päätöksenteossa pitäisi arvioida vaikutukset ympäristöön ja tarvittaessa luopua ympäristölle haitallisista hankkeista.      | 
+<img src="/vaalikoneet-2019/assets/img/1.png" width="500" /> | 1. Terveyskeskuksen lääkäri- ja hoitajakäyntien tulisi olla asiakkaalle maksuttomia.           | 
+<img src="/vaalikoneet-2019/assets/img/2.png" width="500" />  | 2. Nykyään vanhuksen tulot vaikuttavat laitoshoidon hoitomaksuihin. Jatkossa myös vanhuksen omaisuutta tulisi käyttää hoivamaksujen kattamiseen.   | 
+<img src="/vaalikoneet-2019/assets/img/3.png" width="500" />  | 3. Suomen sosiaaliturvassa olisi syytä siirtyä kansalaispalkan eli vastikkeettoman sosiaaliturvan suuntaan.      | 
+<img src="/vaalikoneet-2019/assets/img/4.png" width="500" />  | 4. Sosiaaliturvaa tulisi uudistaa siten, että vastikkeeksi tuesta täytyy tehdä nykyistä enemmän jotakin yhteiskunnallisesti hyödyllistä, kuten opintoja tai vapaaehtoistöitä.  | 
+<img src="/vaalikoneet-2019/assets/img/5.png" width="500" />  | 5. Korkeakoulutusta on oltava tarjolla joka puolella Suomea.      | 
+<img src="/vaalikoneet-2019/assets/img/6.png" width="500" />  | 6. Päiväkotien varhaiskasvatuksen tavoite on ensisijaisesti mahdollistaa vanhempien työssäkäynti.       | 
+<img src="/vaalikoneet-2019/assets/img/7.png" width="500" />  | 7. Kun perhevapaita uudistetaan, tärkeä tavoite on kasvattaa vain isälle suunnattua kiintiötä.      | 
+<img src="/vaalikoneet-2019/assets/img/8.png" width="500" />  | 8. Kotihoidon tukea ei saa lyhentää nykyisestä lapsen kolmesta ikävuodesta.      | 
+<img src="/vaalikoneet-2019/assets/img/9.png" width="500" />  | 9. Suomessa tulee asettaa kansalaisille henkilökohtainen hiilibudjetti, jossa määritellään hiilijalanjäljelle enimmäisraja.      | 
+<img src="/vaalikoneet-2019/assets/img/10.png" width="500" />  | 10. Eduskunnan pitäisi antaa lupia uusille ydinvoimaloille.     |
+<img src="/vaalikoneet-2019/assets/img/11.png" width="500" />  | 11. Suomen pitää vähentää hakkuita ilmastonmuutoksen hillitsemiseksi.      | 
+<img src="/vaalikoneet-2019/assets/img/12.png" width="500" />  | 12. Suomalaisia pitäisi ohjata vähäisempään lihansyöntiin, esimerkiksi verotuksen keinoin.       | 
+<img src="/vaalikoneet-2019/assets/img/13.png" width="500" />  | 13. EU:sta on Suomelle enemmän hyötyä kuin haittaa.      | 
+<img src="/vaalikoneet-2019/assets/img/14.png" width="500" />  | 14. Suomen muuttuminen aiempaa monikulttuurisemmaksi ja monimuotoisemmaksi on hyvä asia.      | 
+<img src="/vaalikoneet-2019/assets/img/15.png" width="500" />  | 15. Ulkomailta tuleville opiskelijoille pitäisi myöntää oleskelulupa koko tutkinnon suorittamisen ajaksi.      | 
+<img src="/vaalikoneet-2019/assets/img/16.png" width="500" />  | 16. Suomen tulisi tällä vaalikaudella ryhtyä valmistelemaan hakemista Natoon.      | 
+<img src="/vaalikoneet-2019/assets/img/17.png" width="500" />  | 17. Eduskunnan pitäisi päättää työmarkkinoita koskevista uudistuksista myös vastoin työmarkkinajärjestöjen eli ammattiliittojen ja työnantajajärjestöjen tahtoa.      | 
+<img src="/vaalikoneet-2019/assets/img/18.png" width="500" />  | 18. Autoilu on Suomessa jo liian kallista.      | 
+<img src="/vaalikoneet-2019/assets/img/19.png" width="500" />  | 19. On oikein rajoittaa ihmisten autoilua, jos robottiautot ovat liikenteessä turvallisempia.      | 
+<img src="/vaalikoneet-2019/assets/img/20.png" width="500" />  | 20. Päänsärkylääkkeitä ja vastaavia reseptittömiä itsehoitolääkkeitä pitäisi voida ostaa ruokakaupasta.      | 
+<img src="/vaalikoneet-2019/assets/img/21.png" width="500" />  | 21. Homo- ja lesbopareilla pitää olla samat avioliitto- ja adoptio-oikeudet kuin heteropareilla.     | 
+<img src="/vaalikoneet-2019/assets/img/22.png" width="500" />  | 22. Jos valtio tarjoaa turvapaikanhakijoiden vastaanottokeskuksen perustamista kotikuntaani, tarjous pitää hyväksyä.     | 
+<img src="/vaalikoneet-2019/assets/img/23.png" width="500" />  | 23. Kouluissa kohdellaan koululaisia liian lepsusti. Tiukempi kuri tekisi kouluista parempia.      | 
+<img src="/vaalikoneet-2019/assets/img/24.png" width="500" />  | 24. Perinteiset arvot — kuten koti, uskonto ja isänmaa — muodostavat hyvän arvopohjan politiikalle.      | 
+<img src="/vaalikoneet-2019/assets/img/25.png" width="500" />  | 25. Julkisia palveluita tulisi ulkoistaa entistä enemmän yksityisten yritysten tuotettavaksi.      | 
+<img src="/vaalikoneet-2019/assets/img/26.png" width="500" />  | 26. Jos tulee eteen tilanne, jossa on välttämätöntä joko leikata julkisia palveluita ja sosiaalietuuksia tai korottaa veroja, veronkorotukset ovat parempi vaihtoehto.      | 
+<img src="/vaalikoneet-2019/assets/img/27.png" width="500" />  | 27. Suuret tuloerot ovat hyväksyttäviä, jotta erot ihmisten lahjakkuudessa ja ahkeruudessa voidaan palkita.    | 
+<img src="/vaalikoneet-2019/assets/img/28.png" width="500" />  | 28. Nykyisen kaltaiset palvelut ja sosiaalietuudet ovat pitkällä aikavälillä liian raskaita julkiselle taloudelle.      | 
+<img src="/vaalikoneet-2019/assets/img/29.png" width="500" />  | 29. Talouskasvu ja työpaikkojen luominen tulisi asettaa ympäristöasioiden edelle silloin, kun nämä kaksi ovat keskenään ristiriidassa.     | 
+<img src="/vaalikoneet-2019/assets/img/30.png" width="500" />  | 30. Kaikessa päätöksenteossa pitäisi arvioida vaikutukset ympäristöön ja tarvittaessa luopua ympäristölle haitallisista hankkeista.      | 
 
 <div class="datatable-end"></div>
 
